@@ -1,5 +1,6 @@
 # Gan-pytorch
-基于pytorch的Gan和DCGan
+基于pytorch的Gan和DCGan，直接运行py文件即可训练，数据集由torchvision自动下载  
+也可以由下方链接下载
 
 - 关于Gan的个人解读文章  
 GAN-NIPS2014：脑洞大开的生成对抗网络 - 问夏的文章 - 知乎  
